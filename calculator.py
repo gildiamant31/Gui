@@ -1,8 +1,9 @@
+##simple program of calculator which using GUI.
 from tkinter import *
 
 i=0
 root=Tk()
-root.title("Simple calculator")
+root.title("Simple Calculator")
 large_font=("Arial","13")
 
 label=Label(root,text="Calculator!")

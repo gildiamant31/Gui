@@ -1,3 +1,4 @@
+##simple program which get data form user with GUI and save it on csv file.
 from csv import *
 from tkinter import *
 from tkinter import messagebox
